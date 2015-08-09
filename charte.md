@@ -49,13 +49,21 @@ Il est par contre possible à un rang 4 de passer rang 6 et à un rang 5 de pass
 ### Recrutement
 Seuls les membres de la guilde à partir de rang 4 sont autorisés à recruter de nouveau membre.<br>
 Tout nouveau membre est rang 1 « Postulant ».<br>
-Le multi-guildage n’est pas autorisé.<br>
 
 Toutes les recrues doivent parler français et leurs inscription et présentation sur le forum est obligatoire.<br>
 Elles doivent être idéalement majeures mais ce n’est pas une obligation.<br>
 Elles doivent pouvoir utiliser mumble, en particulier pour les activités de groupe, au minimum pour pouvoir écouter ce qui se dit.<br>
 Elles doivent être un minimum social afin de correctement s’intégrer avec le reste de la guilde et posséder un état d’esprit de « groupe familiale » sans objectif d’être meilleur que tout le monde.<br>
 Elles doivent aussi avoir l’état d’esprit de vouloir jouer en groupe et désirer participer à l’évolution de la guilde.
+
+#### Multi-guildage
+Le multi-guildage, comprendre des personnages d’un même compte dans des guildes différentes, est autorisé sous certaines conditions.
+
+Seul le contexte role-play autorise le multi-guildage. En dehors de ça, un multi-guildage sera toujours refusé et des sanctions seront alors appliquées.
+
+Il est possible pour un joueur ayant son personnage principal dans la guilde, qu’importe son rang dans la guilde, d’avoir des reroll dans d’autres guildes. La « loyauté » envers notre guilde devra cependant rester prioritaire sous peine de sanctions.
+
+Il est possible pour un joueur ayant son personnage principal dans une autre guilde d’avoir un ou plusieurs reroll dans notre guilde sous validation du conseil qui se référera à certains joueurs RP de la guilde pour rendre sa décision. Le rang au sein de la guilde ne pourra alors dépasser le rang 2 (non-inclus) pour le reroll.
 
 ### Rerolls
 Est considéré rerolls des personnages secondaire joué. Les personnes dit « coffres forts » ne sont pas autorisé.<br>
