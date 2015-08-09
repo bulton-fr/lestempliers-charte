@@ -62,6 +62,32 @@ Est considéré rerolls des personnages secondaire joué. Les personnes dit « c
 Le rerolls d’un membre inférieur au rang 3 est rang 1.<br>
 Le rerolls d’un membre supérieur au rang 3 est rang 4.
 
+### Règles de vie
+Les actions de chaque membre de la guilde en jeu n’impliquent pas seulement le personnage du joueur mais aussi la guilde à laquelle il appartient.
+
+Il faut comprendre que les bonnes actions resteront certainement discrètes pour tous les autres joueurs de Neverwinter; Cependant les mauvaises seront répété et répandu à tous les joueurs du jeu. La réputation de la guilde auquel appartient le joueur en question est donc directement impacté par ses actions.
+
+Nous nous efforçont de rester une guilde respectable pour tous. Ainsi les insultes en tous genres, les propos racistes ou ayant un rapport avec l’orientation sexuel d’une personne ne sont pas toléré. Que ce soit envers les membres de la guilde ou d’autres joueurs.<br>
+Tout comportement et dire pouvant porter préjudice à la guilde et aux autres joueurs sera sanctionné conformément à la partie « Sanction » de cette charte.
+
+Un des principes fondamentaux de cette guilde est de rassembler les joueurs ayant un minimum (entendez le plus possible) d’éducation, de savoir vivre et de sympathie. C’est une preuve de maturité d’essayer de comprendre et de dialoguer plutôt que de rentrer dans un conflit inutile.
+
+Les blagues et plaisanteries sont les bienvenues sauf si elles peuvent blesser ouvertement une personne ou créer des tensions. Chaque personne à une histoire (irl), ainsi, certaines plaisanteries peuvent être à éviter suivant la présence de ces dites personnes. « On peut rire de tout mais pas avec n’importe qui ».
+
+Les règles énoncées ci-dessus s’applique à tous les canaux de discussions possibles.
+
+#### Communication
+Les principaux canaux de discussions entre membre de la guilde sont le canal Guilde et le serveur vocal de la guilde (mumble).
+
+Pour le confort de tous, l’écriture sms n’est pas acceptée sur le canal de guilde tout comme tout autre façon d’écrire qui s’en rapproche. Le zéro faute n’est pas demandé, mais un minimum pour faire en sorte que les phrases de chacun reste compréhensible à tous.
+
+Le serveur vocal étant le canal de discussion central de la guilde, la présence sur le serveur vocal est obligatoire pour tout événement de groupe ou pour des questions complexes qui nécessite de longues explications.
+
+Tel que définie dans la partie « Recrutement », la présence sur le serveur vocal peux se limiter à une simple écoute.
+
+Tous les évènements de groupes sont la majorité du temps d’abord définie sur le serveur vocal. Il arrive régulièrement que les évènements ne soient pas annoncés en canal Guilde. Ainsi, un joueur ne souhaitant pas être présent sur le serveur vocal ne peut ensuite se plaindre que les autres membres de la guilde partent dans les dits évènements sans lui.<br>
+Il en va de même pour certaines informations sur le jeu ou la guilde.
+
 ### Suggestion
 Il n’est possible de soumettre une proposition de changement concernant la guilde qu’à partir du rang 4.<br>
 La proposition est alors obligatoirement soumise sur le forum de la guilde et non en vocal. Les divers avis et suggestions d’évolution de l’idée doivent être postés sur le forum.<br>
