@@ -115,17 +115,17 @@ Aucun membre du « Conseil » n’a de rôle qui lui est assigné. Chaque membre
 En revanche, de part leurs personnalités respective, chaque membre du « Conseil » peut avoir la priorité sur une tâche en particulier s’il est présent au moment où il y en a besoin.<br>
 Une décision prise ne peut être resoumit au « Conseil » une seconde fois. La décision du « Conseil » est définitive sauf si le « Conseil » lui-même décide de revenir dessus ultérieurement.
 
-### Les réunions
+#### Les réunions
 Le « Conseil » doit se réunir au minimum toutes les 6 ou 8 semaines afin d’au minimum :
 * Faire le ménage dans les rangs 1 en pratiquant de l’expulsion de ceux qu'on ne reverra jamais
 * Faire le point de la situation, dont la gestion du coffre, des finances et des changements de rangs
 * Décider des projets futurs, lancer des débats forum pour ce qui semble opportun
 
-### Les réunions exceptionnelles
+#### Les réunions exceptionnelles
 Il est possible au conseil de se réunir de façon exceptionnelle afin de prendre une décision qui ne peut attendre la prochaine réunion habituel.<br>
 Les votes des membres du « Conseil » n’ont présent sur le mumble peuvent être récolté par téléphone, mail ou tout autre moyen de communication par un ou plusieurs autre(s) membre(s) du « Conseil » uniquement.
 
-### Compte-rendu
+#### Compte-rendu
 Suite à une réunion ou une réunion exceptionnelle, un compte-rendu doit obligatoirement être écrit et posté sur le forum. Les votes ne doivent pas être écrit et reste à la discrétion des membres du « Conseil ».<br>
 Les comptes-rendus doivent être postés par des personnes différentes à chaque fois. En cas d’absence, il est cependant possible à une même personne d’écrire un compte-rendu plusieurs fois de suite.<br>
 Il est possible d’annoncer le résultat du vote sur le mumble, mais un compte-rendu écrit et posté sur le forum reste obligatoire.<br>
