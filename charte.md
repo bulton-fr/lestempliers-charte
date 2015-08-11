@@ -63,7 +63,7 @@ Seul le contexte role-play autorise le multi-guildage. En dehors de ça, un mult
 
 Il est possible pour un joueur ayant son personnage principal dans la guilde, qu’importe son rang dans la guilde, d’avoir des reroll dans d’autres guildes. La « loyauté » envers notre guilde devra cependant rester prioritaire sous peine de sanctions.
 
-Il est possible pour un joueur ayant son personnage principal dans une autre guilde d’avoir un ou plusieurs reroll dans notre guilde sous validation du conseil qui se référera à certains joueurs RP de la guilde pour rendre sa décision. Le rang au sein de la guilde ne pourra alors dépasser le rang 2 (non-inclus) pour le reroll.
+Il est possible pour un joueur ayant son personnage principal dans une autre guilde d’avoir un ou plusieurs reroll dans notre guilde sous validation du conseil qui se référera à certains joueurs RP de la guilde pour rendre sa décision. Le rang au sein de la guilde ne pourra alors dépasser le rang 1 pour le reroll.
 
 ### Rerolls
 Est considéré rerolls des personnages secondaire joué. Les personnes dit « coffres forts » ne sont pas autorisé.<br>
