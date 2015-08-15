@@ -165,7 +165,13 @@ Les votes des membres du « Conseil » n’ont présent sur le mumble peuvent ê
 #### Compte-rendu
 Suite à une réunion ou une réunion exceptionnelle, un compte-rendu doit obligatoirement être écrit et posté sur le forum. Les votes ne doivent pas être écrit et reste à la discrétion des membres du « Conseil ».<br>
 Les comptes-rendus doivent être postés par des personnes différentes à chaque fois. En cas d’absence, il est cependant possible à une même personne d’écrire un compte-rendu plusieurs fois de suite.<br>
-Il est possible d’annoncer le résultat du vote sur le mumble, mais un compte-rendu écrit et posté sur le forum reste obligatoire.<br>
+Il est possible d’annoncer le résultat du vote sur le mumble, mais un compte-rendu écrit et posté sur le forum reste obligatoire.
+
+#### Prise de décisions
+Suivant le type de décision, le vote, pour être accepté doit être à l'unanimité, ou à la majorité.<br>
+Pour tout ce qui concerne une modification sur les institutions ou le cœur même de la guilde (par exemple son nom), un vote à l'unanimité est requis. Pour tous les autres types de décisions, il s'agit d'un vote à la majorité. 
+
+Pour un vote à la majorité, s'il y a égalité des voix, le conseil est exceptionnelement autorisé à faire appel à un rang 5, ou à défault un rang 4, de leurs choix pour trancher.
 
 ## La charte
 La présente charte de la guilde « Les Templiers de Padhiver » ne peut être modifiée qu’avec l’accord de tous les membres appartenant au « Conseil ».<br>
