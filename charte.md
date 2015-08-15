@@ -39,37 +39,6 @@ Il s’agit aussi des rerolls des personnages étant Postulant, ou Recrues, ou N
 
 ## Vie dans la guilde
 
-### Evolution
-La monté d’un rang à un autre se fait exclusivement par vote du « Conseil » après X semaines passé dans un rang.<br>
-L’évolution dans la guilde se base uniquement sur l’intégration et la participation d’un joueur dans la guilde et non par la demande du dit joueur.<br>
-A part pour les rangs 4 et 5, la monté de rang est un par un.<br>
-Ainsi, Il n’est par exemple pas possible à une Recrues de devenir directement Templiers.<br>
-Il est par contre possible à un rang 4 de passer rang 6 et à un rang 5 de passer rang 7.<br>
-
-### Recrutement
-Seuls les membres de la guilde à partir de rang 4 sont autorisés à recruter de nouveau membre.<br>
-Tout nouveau membre est rang 1 « Postulant ».<br>
-
-Toutes les recrues doivent parler français et leurs inscription et présentation sur le forum est obligatoire.<br>
-Elles doivent être idéalement majeures mais ce n’est pas une obligation.<br>
-Elles doivent pouvoir utiliser mumble, en particulier pour les activités de groupe, au minimum pour pouvoir écouter ce qui se dit.<br>
-Elles doivent être un minimum social afin de correctement s’intégrer avec le reste de la guilde et posséder un état d’esprit de « groupe familiale » sans objectif d’être meilleur que tout le monde.<br>
-Elles doivent aussi avoir l’état d’esprit de vouloir jouer en groupe et désirer participer à l’évolution de la guilde.
-
-#### Multi-guildage
-Le multi-guildage, comprendre des personnages d’un même compte dans des guildes différentes, est autorisé sous certaines conditions.
-
-Seul le contexte role-play autorise le multi-guildage. En dehors de ça, un multi-guildage sera toujours refusé et des sanctions seront alors appliquées.
-
-Il est possible pour un joueur ayant son personnage principal dans la guilde, qu’importe son rang dans la guilde, d’avoir des reroll dans d’autres guildes. La « loyauté » envers notre guilde devra cependant rester prioritaire sous peine de sanctions.
-
-Il est possible pour un joueur ayant son personnage principal dans une autre guilde d’avoir un ou plusieurs reroll dans notre guilde sous validation du conseil qui se référera à certains joueurs RP de la guilde pour rendre sa décision. Le rang au sein de la guilde ne pourra alors dépasser le rang 1 pour le reroll.
-
-### Rerolls
-Est considéré rerolls des personnages secondaire joué. Les personnes dit « coffres forts » ne sont pas autorisé.<br>
-Le rerolls d’un membre inférieur au rang 3 est rang 1.<br>
-Le rerolls d’un membre supérieur au rang 3 est rang 4.
-
 ### Règles de vie
 Les actions de chaque membre de la guilde en jeu n’impliquent pas seulement le personnage du joueur mais aussi la guilde à laquelle il appartient.
 
@@ -96,10 +65,36 @@ Tel que définie dans la partie « Recrutement », la présence sur le serveur v
 Tous les évènements de groupes sont la majorité du temps d’abord définie sur le serveur vocal. Il arrive régulièrement que les évènements ne soient pas annoncés en canal Guilde. Ainsi, un joueur ne souhaitant pas être présent sur le serveur vocal ne peut ensuite se plaindre que les autres membres de la guilde partent dans les dits évènements sans lui.<br>
 Il en va de même pour certaines informations sur le jeu ou la guilde.
 
-### Suggestion
-Il n’est possible de soumettre une proposition de changement concernant la guilde qu’à partir du rang 4.<br>
-La proposition est alors obligatoirement soumise sur le forum de la guilde et non en vocal. Les divers avis et suggestions d’évolution de l’idée doivent être postés sur le forum.<br>
-Suite à une période de x jours, l’idée est soumise au « Conseil » qui débâtera et prendra la décision finale.<br> 
+### Recrutement
+Seuls les membres de la guilde à partir de rang 4 sont autorisés à recruter de nouveau membre.<br>
+Tout nouveau membre est rang 1 « Postulant ».<br>
+
+Toutes les recrues doivent parler français et leurs inscription et présentation sur le forum est obligatoire.<br>
+Elles doivent être idéalement majeures mais ce n’est pas une obligation.<br>
+Elles doivent pouvoir utiliser mumble, en particulier pour les activités de groupe, au minimum pour pouvoir écouter ce qui se dit.<br>
+Elles doivent être un minimum social afin de correctement s’intégrer avec le reste de la guilde et posséder un état d’esprit de « groupe familiale » sans objectif d’être meilleur que tout le monde.<br>
+Elles doivent aussi avoir l’état d’esprit de vouloir jouer en groupe et désirer participer à l’évolution de la guilde.
+
+#### Multi-guildage
+Le multi-guildage, comprendre des personnages d’un même compte dans des guildes différentes, est autorisé sous certaines conditions.
+
+Seul le contexte role-play autorise le multi-guildage. En dehors de ça, un multi-guildage sera toujours refusé et des sanctions seront alors appliquées.
+
+Il est possible pour un joueur ayant son personnage principal dans la guilde, qu’importe son rang dans la guilde, d’avoir des reroll dans d’autres guildes. La « loyauté » envers notre guilde devra cependant rester prioritaire sous peine de sanctions.
+
+Il est possible pour un joueur ayant son personnage principal dans une autre guilde d’avoir un ou plusieurs reroll dans notre guilde sous validation du conseil qui se référera à certains joueurs RP de la guilde pour rendre sa décision. Le rang au sein de la guilde ne pourra alors dépasser le rang 1 pour le reroll.
+
+### Rerolls
+Est considéré rerolls des personnages secondaire joué. Les personnes dit « coffres forts » ne sont pas autorisé.<br>
+Le rerolls d’un membre inférieur au rang 3 est rang 1.<br>
+Le rerolls d’un membre supérieur au rang 3 est rang 4.
+
+### Evolution
+La monté d’un rang à un autre se fait exclusivement par vote du « Conseil » après X semaines passé dans un rang.<br>
+L’évolution dans la guilde se base uniquement sur l’intégration et la participation d’un joueur dans la guilde et non par la demande du dit joueur.<br>
+A part pour les rangs 4 et 5, la monté de rang est un par un.<br>
+Ainsi, Il n’est par exemple pas possible à une Recrues de devenir directement Templiers.<br>
+Il est par contre possible à un rang 4 de passer rang 6 et à un rang 5 de passer rang 7.<br>
 
 ### Participation aux frais de la guilde
 Une contribution à la guilde doit être faite par tous ses membres.<br>
@@ -125,6 +120,21 @@ Liste des différents coffres :
 5. Objets précieux dont enchantements et runes mauves, armes évolutives et autres objets rares et ou mauves.<br>
 Les 2 lignes du bas contiennent les objets à Asha, qui peuvent lui être directement demandé par la personne en ayant besoin.
 
+### Suggestions
+Il n’est possible de soumettre une proposition de changement concernant la guilde qu’à partir du rang 4.<br>
+La proposition est alors obligatoirement soumise sur le forum de la guilde et non en vocal. Les divers avis et suggestions d’évolution de l’idée doivent être postés sur le forum.<br>
+Suite à une période de x jours, l’idée est soumise au « Conseil » qui débâtera et prendra la décision finale.<br> 
+
+### Les sanctions
+Il est possible au « Conseil » de mettre des sanctions sur les membres de la guilde ayant à définir...<br>
+Ainsi, après avoir été sollicité, le « Conseil » se réunis, entends le(s) solliciteur(s) individuellement, le(s) témoin individuellement aussi et le(s) "accusé(s)" toujours individuellement puis prends une décision.<br>
+La décision du « Conseil » donne lieu à un avertissement au fautif s’il est reconnu coupable des charges contre lui.<br>
+Au bout de 3 avertissements du « Conseil », le(s) fautif(s) est dégradé au rang précédent.<br>
+Si une personne atteint le rang 0, c’est alors une exclusion qui a lieu.
+
+
+## Les institutions de la guilde
+
 ### Personnage « Gardien »
 PNJ de guilde accessible à tous les rang 7 dont les fonctions sont :
 * Faire du commerce avec les objets donnés par les membres de la guilde pour pouvoir acheter des pages de coffre, et éventuellement d’autres éléments futurs pour la guilde
@@ -135,13 +145,6 @@ PNJ de guilde accessible à tous les rang 7 dont les fonctions sont :
 Gardien est devenu, de façon non prémédité, le personnage RP principal d’Idryle. 
 Il possède donc une correspondance RP et aussi quelques objets offerts dans ce cadre, que nous ne pouvons donc pas nous permettre de vendre.<br>
 La liste des items à ne pas vendre sera publiée sur le forum dans un sujet concernant Gardien.
-
-### Les sanctions
-Il est possible au « Conseil » de mettre des sanctions sur les membres de la guilde ayant à définir...<br>
-Ainsi, après avoir été sollicité, le « Conseil » se réunis, entends le(s) solliciteur(s) individuellement, le(s) témoin individuellement aussi et le(s) "accusé(s)" toujours individuellement puis prends une décision.<br>
-La décision du « Conseil » donne lieu à un avertissement au fautif s’il est reconnu coupable des charges contre lui.<br>
-Au bout de 3 avertissements du « Conseil », le(s) fautif(s) est dégradé au rang précédent.<br>
-Si une personne atteint le rang 0, c’est alors une exclusion qui a lieu.
 
 ### Le « Conseil »
 Le « Conseil » est composé des membres de rangs 6 et 7 uniquement. Il est chargé de prendre les décisions dans la guilde dans le but du maintien de l'esprit de la guilde (cordialité, entraide, plaisir de jouer).<br>
