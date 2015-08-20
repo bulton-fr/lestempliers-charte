@@ -168,7 +168,7 @@ Il est possible d’annoncer le résultat du vote sur le mumble, mais un compte-
 Suivant le type de décision, le vote, pour être accepté doit être à l'unanimité, ou à la majorité.<br>
 Pour tout ce qui concerne une modification sur les institutions ou le cœur même de la guilde (par exemple son nom), un vote à l'unanimité est requis. Pour tous les autres types de décisions, il s'agit d'un vote à la majorité. 
 
-Pour un vote à la majorité, s'il y a égalité des voix, le conseil est exceptionnelement autorisé à faire appel à un rang 5, ou à défault un rang 4, de leurs choix pour trancher.
+Pour un vote à la majorité, s'il y a égalité des voix, le conseil est exceptionnelement autorisé à faire appel à un rang 5 de leurs choix pour trancher.
 
 ## La charte
 La présente charte de la guilde « Les Templiers de Padhiver » ne peut être modifiée qu’avec l’accord de tous les membres appartenant au « Conseil ».<br>
