@@ -98,8 +98,7 @@ Il est par contre possible à un rang 4 de passer rang 6 et à un rang 5 de pass
 
 ### Participation aux frais de la guilde
 Une contribution à la guilde doit être faite par tous ses membres.<br>
-Chaque membre n’ayant pas la même activité, la contribution est à définir.<br>
-La contribution passe obligatoirement par le coffre de guilde. Les membres du « Conseil » sont les seuls autorisé à envoyer directement leurs contributions au personnage « Gardien ».
+Chaque membre n’ayant pas la même activité, la contribution est suivant les possibilités de chacun. Pour rappel, appartenir à une guilde incombe un minimum d'implication dont l'une est de contribuer à sa vie et son évolution suivant les besoins du moment.
 
 ### Coffre de guilde
 Les objets du coffres ont 2 finalités et seulement 2.<br>
