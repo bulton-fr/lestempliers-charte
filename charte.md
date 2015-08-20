@@ -125,11 +125,9 @@ La proposition est alors obligatoirement soumise sur le forum de la guilde et no
 Suite à une période de x jours, l’idée est soumise au « Conseil » qui débâtera et prendra la décision finale.<br> 
 
 ### Les sanctions
-Il est possible au « Conseil » de mettre des sanctions sur les membres de la guilde ayant à définir...<br>
+Il est possible au « Conseil » de mettre des sanctions sur les membres de la guilde ayant commit une « faute », qu'elle soit définie dans la charte ou non.<br>
 Ainsi, après avoir été sollicité, le « Conseil » se réunis, entends le(s) solliciteur(s) individuellement, le(s) témoin individuellement aussi et le(s) "accusé(s)" toujours individuellement puis prends une décision.<br>
-La décision du « Conseil » donne lieu à un avertissement au fautif s’il est reconnu coupable des charges contre lui.<br>
-Au bout de 3 avertissements du « Conseil », le(s) fautif(s) est dégradé au rang précédent.<br>
-Si une personne atteint le rang 0, c’est alors une exclusion qui a lieu.
+La décision du « Conseil » donne lieu, suivant le degré de la faute, à minimum un avertissement si les faits sont avéré. En cas de récidive, la sanction approprié sera prise par le « Conseil ».
 
 
 ## Les institutions de la guilde
