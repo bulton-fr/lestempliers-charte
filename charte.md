@@ -18,7 +18,7 @@ Les Chevaliers sont les Commandeurs ou les Conseillers dit « à la retraite ».
 Ils peuvent reprendre leurs positions de Conseillers ou de Commandeurs en cas de retour à une activité de façon régulière et à un vote du « Conseil ».
 
 ### Rang 4 « Templiers »
-Les Templiers participent à la vie active de la guilde et peuvent donc en autre recruter de nouveaux membres.<br>
+Les Templiers participent à la vie active de la guilde et peuvent donc en outre recruter de nouveaux membres.<br>
 Ils ont accès jusqu’au coffre 4 de la guilde.<br>
 Il s’agit aussi des rerolls des Templiers, Chevaliers, Conseillers et Commandeurs.<br>
 Seul les Templiers qui ne sont pas des rerolls peuvent devenir Conseillers.
@@ -56,7 +56,7 @@ Les règles énoncées ci-dessus s’appliquent à tous les canaux de discussion
 #### Communication
 Les principaux canaux de discussions entre membres de la guilde sont le canal Guilde et le serveur vocal de la guilde (mumble).
 
-Pour le confort de tous, l’écriture sms n’est pas acceptée sur le canal de guilde tout comme tout autre façon d’écrire qui s’en rapproche. Le zéro faute n’est pas demandé, mais un minimum pour faire en sorte que les phrases de chacun restent compréhensibles pour tous.
+Pour le confort de tous, l’écriture sms n’est pas acceptée sur le canal de guilde tout comme toute autre façon d’écrire qui s’en rapproche. Le zéro faute n’est pas demandé, mais un minimum pour faire en sorte que les phrases de chacun restent compréhensibles pour tous.
 
 Le serveur vocal étant le canal de discussion central de la guilde, la présence sur le serveur vocal est obligatoire pour tout événement de groupe ou pour des questions complexes qui nécessitent de longues explications.
 
@@ -72,8 +72,8 @@ Tout nouveau membre est rang 1 « Postulant ».<br>
 Toutes les recrues doivent parler français et leur inscription et présentation sur le forum sont obligatoires.<br>
 Elles doivent être idéalement majeures mais ce n’est pas une obligation.<br>
 Elles doivent pouvoir utiliser mumble, en particulier pour les activités de groupe, au minimum pour pouvoir écouter ce qui se dit.<br>
-Elles doivent être un minimum socialles afin de correctement s’intégrer avec le reste de la guilde et posséder un état d’esprit de « groupe familial » sans objectif d’être meilleur que tout le monde.<br>
-Elles doivent aussi avoir l’état d’esprit de vouloir jouer en groupe et désirer participer à l’évolution de la guilde.
+Elles doivent être un minimum sociables afin de correctement s’intégrer avec le reste de la guilde et posséder un état d’esprit de « groupe familial » sans avoir pour objectif ultime d’être meilleur que tout le monde.<br>
+Elles doivent aussi vouloir jouer en groupe et désirer participer à l’évolution de la guilde.
 
 #### Multi-guildage
 Le multi-guildage, comprendre des personnages d’un même compte dans des guildes différentes, est autorisé sous certaines conditions.
@@ -85,8 +85,8 @@ Il est possible pour un joueur ayant son personnage principal dans la guilde, qu
 Il est possible pour un joueur ayant son personnage principal dans une autre guilde d’avoir un ou plusieurs rerolls dans notre guilde sous validation du conseil qui se référera à certains joueurs RP de la guilde pour rendre sa décision. Le rang au sein de la guilde ne pourra alors dépasser le rang 1 pour le reroll.
 
 ### Rerolls
-Est considéré reroll des personnages secondaires joués. Les personnes dites « coffres-forts » ne sont pas autorisées.<br>
-Le reroll d’un membre inférieur au rang 3 est rang 1.<br>
+Est considéré reroll des personnages secondaires joués. Les personnages dits « coffres-forts » ne sont pas autorisées.<br>
+Le reroll d’un membre inférieur ou égal au rang 3 est rang 1.<br>
 Le reroll d’un membre supérieur au rang 3 est rang 4.
 
 ### Evolution
