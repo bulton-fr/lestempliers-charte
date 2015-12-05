@@ -96,6 +96,29 @@ A part pour les rangs 4 et 5, la montée de rang est un par un.<br>
 Ainsi, Il n’est par exemple pas possible à une Recrue de devenir directement Templier.<br>
 Il est par contre possible à un rang 4 de passer rang 6 et à un rang 5 de passer rang 7.<br>
 
+### Déguildage
+Le déguildage n'est autorisé que pour pouvoir partir définitivement de la guilde, pour pouvoir aller acheter un objet dans le marché de la forteresse de la guilde ou pour un événement de guilde autorisé par la présente charte.
+
+Pour les cas autre que le départ de la guilde, la durée de déguildage ne doit concerner que le temps de l'action à effectuer dans l'autre guilde. Cette durée peut être plus longue si aucun membre de la guilde abilité à reguilder n'est présent en même temps que le joueur concerné.<br>
+Lorsqu'un membre ayant déguildé pour un cas autre qu'un départ demande à être reguildé, les membres abilités à reguilder ont obligation de reguilder la personne le plus rapidement possible (comprendre que si la personne est à un événement, il peut ne pas le faire immédiatement, mais devra le faire à la fin de l'événement auquel il participe avant d'aller dans un autre).
+
+#### Déguildage pour l'achat d'un objet au marché de guilde
+Dans le cadre de cette possiblité, il ne peux s'agir uniquement d'un objet non disponible dans notre propre marché.<br>
+Seul l'achat d'objet d'esthétique est autorisé. Les objets accordant un avantage lors de sa possession ne sont pas autorisé. Comprendre un objet permettant d'obtenir un bonus sur une ou plusieurs stats.
+
+Une demande écrite doit être faite sur le forum dans le sujet réservé à cet effet disponible dans la partie "Gestion de la guilde". Un exemple de post sera présent, il est à reprendre et à remplir tel quel.<br>
+Seul un membre du conseil est autorisé à donner son accord par écrit en réponse au post dans le même sujet. Un membre du conseil ne peux autoriser sa propre demande.
+
+#### Déguildage pour un événement de guilde
+Voir les conditions définie dans la partie "Événément de guilde".
+
+### Événements de guilde
+Les événement de guildes sont des événements où il y a obligation de déguilder pour pouvoir être fait en "pick-up". Est définie comme tel tous les événements présent à la forteresse.
+
+Tous les événements de guildes doivent être fait en priorité en guilde ou avec des guildes reconnus comme alliées.
+
+Pour le "siège de la forteresse", il est aussi à faire en priorité en guilde. Il est donc recommendé aux joueurs souhaitant y participer au même moment de se grouper afin d'y participer ensemble. Pour rappel, le "siège de la forteresse" est un événement dont la map de guilde utilisé au combat dépend du nombre de joueur d'une même guilde dans le groupe des 20 participants. Tout est géré par le jeu.
+
 ### Participation aux frais de la guilde
 Une contribution à la guilde doit être faite par tous ses membres.<br>
 Chaque membre n’ayant pas la même activité, la contribution est suivant les possibilités de chacun. Pour rappel, appartenir à une guilde incombe un minimum d'implication dont l'une est de contribuer à sa vie et son évolution suivant les besoins du moment.
