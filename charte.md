@@ -129,6 +129,8 @@ Il est possible au « Conseil » de mettre des sanctions sur les membres de la g
 Ainsi, après avoir été sollicité, le « Conseil » se réunit, entend le(s) solliciteur(s) individuellement, le(s) témoin(s) individuellement aussi et le(s) "accusé(s)" toujours individuellement puis prends une décision.<br>
 La décision du « Conseil » donne lieu, suivant le degré de la faute, au minimum à un avertissement si les faits sont avérés. En cas de récidive, la sanction appropriée sera prise par le « Conseil ».
 
+La présente charte n'évoluant pas aussi vite que le jeu, le conseil se réserve le droit de ne pas sanctionner ses joueurs pour des fait en rapport avec des nouveaux éléments du jeu dont la charte ne tient pas encore compte.
+
 
 ## Les institutions de la guilde
 
