@@ -78,11 +78,13 @@ Elles doivent aussi vouloir jouer en groupe et désirer participer à l’évolu
 #### Multi-guildage
 Le multi-guildage, comprendre des personnages d’un même compte dans des guildes différentes, est autorisé sous certaines conditions.
 
-Seul le contexte role-play autorise le multi-guildage. En dehors de ça, un multi-guildage sera toujours refusé et des sanctions seront alors appliquées.
+Seul le contexte role-play et banque autorise le multi-guildage. En dehors de ça, un multi-guildage sera toujours refusé et des sanctions seront alors appliquées.
 
 Il est possible pour un joueur ayant son personnage principal dans la guilde, qu’importe son rang dans la guilde, d’avoir des rerolls dans d’autres guildes. La « loyauté » envers notre guilde devra cependant rester prioritaire sous peine de sanction.
 
 Il est possible pour un joueur ayant son personnage principal dans une autre guilde d’avoir un ou plusieurs rerolls dans notre guilde sous validation du conseil qui se référera à certains joueurs RP de la guilde pour rendre sa décision. Le rang au sein de la guilde ne pourra alors dépasser le rang 1 pour le reroll.
+
+Un multi-guildage de banque est un personnage principal dans notre guilde, ayant un ou plusieurs rerolls dans une autre guilde créé par le même joueur, ou un autre joueur de notre guilde. Le seul et unique but est de se servir des capacité du coffre de de cette nouvelle guilde pour étendre les capacités de notre coffre et/ou du sac des joueurs concernés.
 
 ### Rerolls
 Est considéré reroll des personnages secondaires joués. Les personnages dits « coffres-forts » ne sont pas autorisées.<br>
@@ -128,6 +130,8 @@ Suite à une période de x jours, l’idée est soumise au « Conseil » qui dé
 Il est possible au « Conseil » de mettre des sanctions sur les membres de la guilde ayant commis une « faute », qu'elle soit définie dans la charte ou non.<br>
 Ainsi, après avoir été sollicité, le « Conseil » se réunit, entend le(s) solliciteur(s) individuellement, le(s) témoin(s) individuellement aussi et le(s) "accusé(s)" toujours individuellement puis prends une décision.<br>
 La décision du « Conseil » donne lieu, suivant le degré de la faute, au minimum à un avertissement si les faits sont avérés. En cas de récidive, la sanction appropriée sera prise par le « Conseil ».
+
+La présente charte n'évoluant pas aussi vite que le jeu, le conseil se réserve le droit de ne pas sanctionner ses joueurs pour des fait en rapport avec des nouveaux éléments du jeu dont la charte ne tient pas encore compte.
 
 
 ## Les institutions de la guilde
