@@ -97,17 +97,13 @@ Ainsi, Il n’est par exemple pas possible à une Recrue de devenir directement 
 Il est par contre possible à un rang 4 de passer rang 6 et à un rang 5 de passer rang 7.<br>
 
 ### Déguildage
-Le déguildage n'est autorisé que pour pouvoir partir définitivement de la guilde, pour pouvoir aller acheter un objet dans le marché de la forteresse de la guilde ou pour un événement de guilde autorisé par la présente charte.
+Le déguildage n'est autorisé que pour pouvoir partir définitivement de la guilde, pour un événement de guilde autorisé par la présente charte ou dans les conditions de la charte de jumellage.
 
 Pour les cas autre que le départ de la guilde, la durée de déguildage ne doit concerner que le temps de l'action à effectuer dans l'autre guilde. Cette durée peut être plus longue si aucun membre de la guilde abilité à reguilder n'est présent en même temps que le joueur concerné.<br>
 Lorsqu'un membre ayant déguildé pour un cas autre qu'un départ demande à être reguildé, les membres abilités à reguilder ont obligation de reguilder la personne le plus rapidement possible (comprendre que si la personne est à un événement, il peut ne pas le faire immédiatement, mais devra le faire à la fin de l'événement auquel il participe avant d'aller dans un autre).
 
-#### Déguildage pour l'achat d'un objet au marché de guilde
-Dans le cadre de cette possiblité, il ne peux s'agir uniquement d'un objet non disponible dans notre propre marché.<br>
-Seul l'achat d'objet d'esthétique est autorisé. Les objets accordant un avantage lors de sa possession ne sont pas autorisé. Comprendre un objet permettant d'obtenir un bonus sur une ou plusieurs stats.
-
-Une demande écrite doit être faite sur le forum dans le sujet réservé à cet effet disponible dans la partie "Gestion de la guilde". Un exemple de post sera présent, il est à reprendre et à remplir tel quel.<br>
-Seul un membre du conseil est autorisé à donner son accord par écrit en réponse au post dans le même sujet. Un membre du conseil ne peux autoriser sa propre demande.
+#### Achat d'un objet au marché de la forteresse d'une autre guilde
+Il est autorisé l'achat de n'importe quel objet dans la forteresse d'une autre guilde. Nous rappellons cependant à nos membre qu'il est important de faire évoluer notre propre guilde (et donc donner à notre mimique) afin de pouvoir débloquer entre autre les atouts et ne pas dépendre des autres guildes pour nos achats.
 
 #### Déguildage pour un événement de guilde
 Voir les conditions définie dans la partie "Événément de guilde".
